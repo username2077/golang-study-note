@@ -1,5 +1,4 @@
 # golang-study-note
-学习golang，记录笔记
 
 ## day 1 Download and install and run test code
 - 	https://golang.org/doc/install
